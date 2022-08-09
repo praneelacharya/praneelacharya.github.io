@@ -14,7 +14,7 @@ Over the years, I have had the opportunity to focus on different aspects of robo
 
 Experience
 ======
-* Teaching: ME 441/541 Lab Portion, South Dakota State University ( 2019 - 2022 )
+* Teaching: ME 441/541 Robotic Systems Lab Portion, South Dakota State University ( 2019 - 2022 )
 * Research assistant: South Dakota State University ( 2018 - 2022 )
 * Summer Internship: Collision avoidance using vison, Toro (CTRI division), MN ( 2022 )
 * Programming: MATLAB, Python, Pytorch, Keras
