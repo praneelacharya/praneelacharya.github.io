@@ -29,7 +29,7 @@ Journals
 
 Education
 ======
-Ph.D, Mechanical Engineering, South Dakota State University, Ongoing <br/>
+Ph.D., Mechanical Engineering, South Dakota State University, Ongoing <br/>
 B.E., Aeronautical Engineering, Nanjing University of Aeronautics and Astronautics, China, 2017 <br/>
 
 <!-- A data-driven personal website
