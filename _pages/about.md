@@ -12,6 +12,16 @@ I am a Ph.D. candidate in the Department of Mechanical Engineering at [South Dak
 
 Over the years, I have had the opportunity to focus on different aspects of robotics: nonlinear controller design for multiagent systems, computer vision for robotic applications, deep learning, motion planning, and optimization. 
 
+Experience
+======
+* MATLAB, Python, Pytorch, Keras
+
+Publications
+======
+Journals
+------
+1. P. Acharya, K. -D. Nguyen, H. M. La, D. Liu and I. -M. Chen, "Nonprehensile Manipulation:A Trajectory-Planning Perspective," in IEEE/ASME Transactions on Mechatronics, vol. 26, no. 1, pp. 527-538, Feb. 2021, doi: 10.1109/TMECH.2020.3038591. <br/>
+
 
 Education
 ======
