@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the Department of Mechanical Engineering at [South Dakota State University](https://www.sdstate.edu) working under the supervision of [Dr. Kim-Doang Nguyen](https://www.sdstate.edu/directory/kim-doang-nguyen). I have worked as a research assistant and teaching assistant during my Ph.D. program. <br/>
 
-Over the years, I have had the privilege to focus on different aspects of robotics: nonlinear controller design for multiagent systems, computer vision for robotic applications, deep learning, motion planning, and optimization. 
+Over the years, I have had the opportunity to focus on different aspects of robotics: nonlinear controller design for multiagent systems, computer vision for robotic applications, deep learning, motion planning, and optimization. 
 
 
 Education
