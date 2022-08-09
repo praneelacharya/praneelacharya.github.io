@@ -13,8 +13,8 @@ I am PhD candidate in the South Dakota State University (https://www.sdstate.edu
 
 Education
 ======
-Ph.D, Mechanical Engineering, South Dakota State University, Ongoing
-B.E., Aeronautical Engineering, Nanjing University of Aeronautics and Astronautics, China, 2017
+Ph.D, Mechanical Engineering, South Dakota State University, Ongoing <br/>
+B.E., Aeronautical Engineering, Nanjing University of Aeronautics and Astronautics, China, 2017 <br/>
 
 <!-- A data-driven personal website
 ======
