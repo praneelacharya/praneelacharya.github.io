@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Praneel Acharya"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Candidate in Mechanical Enginnering at South Dakota State University"
   location         : "Brookings, SD"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : ""
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
