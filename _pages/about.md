@@ -15,19 +15,12 @@ Over the years, I have had the opportunity to focus on different aspects of robo
 Experience
 ======
 * Teaching: 
-    * ME 321 Fundamentals of Machine Design, South Dakota State University ( 2019 - 2022 )
+    * ME 321 Fundamentals of Machine Design, South Dakota State University ( Fall 2022 )
     * ME 441/541 Robotic Systems Lab, South Dakota State University ( 2019 - 2022 )
 * Research assistant: South Dakota State University ( 2018 - 2022 )
 * Summer Internship: Collision avoidance using vison, Toro (CTRI division), MN ( 2022 )
 * Programming: MATLAB, Python, Pytorch, Keras
 
-
-<!-- Publications
-======
-Journals
-------
-1. P. Acharya, K. -D. Nguyen, H. M. La, D. Liu and I. -M. Chen, "Nonprehensile Manipulation:A Trajectory-Planning Perspective," in IEEE/ASME Transactions on Mechatronics, vol. 26, no. 1, pp. 527-538, Feb. 2021, doi: 10.1109/TMECH.2020.3038591. <br/>
- -->
 
 Education
 ======
