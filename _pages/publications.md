@@ -14,3 +14,10 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Publications
+======
+Journals
+------
+1. P. Acharya, K. -D. Nguyen, H. M. La, D. Liu and I. -M. Chen, "Nonprehensile Manipulation:A Trajectory-Planning Perspective" in IEEE/ASME Transactions on Mechatronics, vol. 26, no. 1, pp. 527-538, Feb. 2021, doi: [10.1109/TMECH.2020.3038591.](https://ieeexplore.ieee.org/document/9262053) 
+
