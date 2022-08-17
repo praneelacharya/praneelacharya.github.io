@@ -16,6 +16,8 @@ Over the years, I have had the opportunity to focus on different aspects of robo
 
 [Name of Link]({% post_url /posts/2022/05/Aerodynamics/ %})
 
+{% post_url /posts/2022/05/Aerodynamics/ %}
+
 Experience
 ======
 * Teaching: 
