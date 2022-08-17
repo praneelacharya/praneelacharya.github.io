@@ -19,8 +19,8 @@ You can have many headings
 Introduction
 ------
 Lift and drag are defined by following equation.
-L=0.5ρV^2 SC_L
-D=0.5ρV^2 SC_D
+<!-- L=0.5ρV^2 SC_L -->
+<!-- D=0.5ρV^2 SC_D -->
 L, D: Lift, Drag
 ρ : Freestream density
 V : Freestream velocity
@@ -33,8 +33,8 @@ Thus, to increase lift (L) there are following options:
 	Max CL/CD will increase lift with decrease in drag with all parameters (ρ,V,S) fixed. 
 Thus, max CL/CD is desired. 
 
-$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+<!-- $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$ -->
 
 
 
-# To add an image we do the following ![ Description of the image]( Link of the image )
+<!-- To add an image we do the following ![ Description of the image]( Link of the image ) -->
