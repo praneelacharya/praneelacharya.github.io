@@ -34,3 +34,7 @@ Thus, to increase lift (L) there are following options:
 Thus, max CL/CD is desired. 
 
 $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+
+
+
+# To add an image we do the following ![ Description of the image]( Link of the image )
