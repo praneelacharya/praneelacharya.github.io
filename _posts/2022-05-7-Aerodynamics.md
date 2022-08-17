@@ -8,7 +8,7 @@ tags:
   - Aerodynamics
 ---
 
-In this project, we explore the different four-digit NACA airfoils. Four-digit NACA airfoil is described by three parameters: while first digit describes the maximum chamber as percentage of the chord, second digit describes of maximum camber the airfoil leading edge in tenths of the chord, and the last two digits describing maximum thickness as percent of the chord. Thus, we change those parameters and find the best NACA airfoil based on maximum CL/CD.
+In this project, we explore the different four-digit NACA airfoils. Four-digit NACA airfoil is described by three parameters: while first digit describes the maximum chamber as percentage of the chord, second digit describes of maximum camber the airfoil leading edge in tenths of the chord, and the last two digits describing maximum thickness as percent of the chord. Thus, we change those parameters and find the best NACA airfoil based on maximum CL/CD. Below is the summary.
 
 Prameters:
 ------
@@ -20,16 +20,19 @@ Prameters:
 
 Steps:
 ------
-1. MATLAB Scripts that calls AVL, generates the airfoil, run the analysis in 0 AoA and saves the airfoil and coeffiecnt of lieft and drag in the text file.
-2. MATLAB Script that looks into all saved text files and short out the airfoils with following properties:
-    1. Maximum coeffiecnt of lift.
-    2. Maximum coefficent of drag.
-    3. Maximum ratio of coffiecent of lift to drag.
+1. MATLAB script initializes AVL by passing NACA 4-digit airfoil with all possible combinations one by one.
+2. AVL runs the analysis for the given NACA 4-digit airfoil in zero angle of attack and saves the airfoil and coefficient of lift and drag in the text file.
+2. MATLAB script looks into all saved text files and shorts out the airfoils with the following properties:
+  * Maximum coefficient of lift.
+  * Maximum coefficient of drag.
+  * Maximum ratio of the coefficient of lift to drag.
 
 Results:
 ------
-1. For zero angle of attack airfoil with high camber were observed for maximum coefficent of lift (CL).
-2. For zero angle of attack airfoil with sphere like shape yielded maximum cofficent of drag (CD).
+1. For zero angle of attack airfoil with high camber was observed for the maximum coefficient of lift (CL).
+2. For zero angle of attack airfoil with a sphere-like shape yielded a maximum coefficient of drag (CD).
+
+![MaxCL](blog-Aerodynamics-maxCL.png "Title")
 
 
 <div class = "embed-responsive embed-responsive-16by9">
