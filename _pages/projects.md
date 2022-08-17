@@ -19,12 +19,7 @@ author_profile: true
 <!-- Publications -->
 <!-- ====== -->
 
-Journals
----
-1. P. Acharya, K.D. Nguyen, H. La, D.K. Liu I.M. Chen, “Nonprehensile Manipulation: a Trajectory-Planning Perspective,”
-IEEE/ASME Transactions on Mechatronics, 26 (1), 527-538, 2021. doi: [10.1109/TMECH.2020.3038591.](https://ieeexplore.ieee.org/document/9262053) 
-2. E. Shata, K.D. Nguyen, P. Acharya, J. Doom, "A Series-Elastic Robot for Back-Pain Rehabilitation",
-International Journal of Control, Automation, and Systems, 19 (2), 1054-1064, 2021. doi: [10.1007/s12555-019-0859-x](https://link.springer.com/article/10.1007/s12555-019-0859-x#citeas)
+
 
 <!-- ![]({{page.image | relative_url}}) -->
 
