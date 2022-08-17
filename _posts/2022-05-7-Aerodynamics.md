@@ -45,28 +45,3 @@ Results:
 You can have many headings
 ====== -->
 
-Introduction
-------
-Lift and drag are defined by following equation: <br/>
-$ L = 0.5 \rho V^2 S C_L $
-<!-- D=0.5ρV^2 SC_D -->
-L, D: Lift, Drag
-ρ : Freestream density
-V : Freestream velocity
-S: Surface area
-C_L  , C_D  : Coefficient of lift, coefficient of drag
-Thus, to increase lift (L) there are following options:
-	Increase the velocity will lead to increase in lift but at the expense of increase drag.
-	Increase in surface area will lead to increase in lift but at the expense of increase drag.
-	Increase in coefficient of lift CL on lead to increase in lift and does not affect drag.
-	Max CL/CD will increase lift with decrease in drag with all parameters (ρ,V,S) fixed. 
-Thus, max CL/CD is desired. 
-
-<!-- $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$ -->
-
-
-
-<!-- To add an image we do the following ![ Description of the image]( Link of the image ) -->
-
-
-![image-title-here](blog-Aerodynamics-maxCL.png){:class="img-responsive"}
