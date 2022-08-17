@@ -2,10 +2,10 @@
 title: 'NACA 4 digit airfoil with maximum CL/CD'
 # date: 2012-08-14
 permalink: /posts/2022/05/Aerodynamics/
-# tags:
-#   - cool posts
-#   - category1
-#   - category2
+tags:
+  - MATLAB
+  - AVL
+  - Aerodynamics
 ---
 
 In this project, we explore the different four-digit NACA airfoils. Four-digit NACA airfoil is described by three parameters: while first digit describes the maximum chamber as percentage of the chord, second digit describes of maximum camber the airfoil leading edge in tenths of the chord, and the last two digits describing maximum thickness as percent of the chord. Thus, we change those parameters and find the best NACA airfoil based on maximum CL/CD.
