@@ -14,9 +14,14 @@ Over the years, I have had the opportunity to focus on different aspects of robo
 
 <!-- [Name of Link]({% post_url 2010-07-21-name-of-post %}) -->
 
-[Name of Link]({% post_url /posts/2022/05/Aerodynamics/ %})
+[Name of Link]({% post_url ../posts/2022/05/Aerodynamics/ %})
+{% post_url ../posts/2022/05/Aerodynamics/ %}
 
-{% post_url /posts/2022/05/Aerodynamics/ %}
+One two
+
+[Name of Link]({% post_url ../_posts/2022/05/Aerodynamics/ %})
+{% post_url ../_posts/2022/05/Aerodynamics/ %}
+
 
 Experience
 ======
