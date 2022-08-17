@@ -38,3 +38,6 @@ Thus, max CL/CD is desired.
 
 
 <!-- To add an image we do the following ![ Description of the image]( Link of the image ) -->
+
+
+![image-title-here](blog-Aerodynamics-maxCL.png){:class="img-responsive"}
