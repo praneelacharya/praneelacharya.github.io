@@ -10,6 +10,30 @@ permalink: /posts/2022/05/Aerodynamics/
 
 In this project, we explore the different four-digit NACA airfoils. Four-digit NACA airfoil is described by three parameters: while first digit describes the maximum chamber as percentage of the chord, second digit describes of maximum camber the airfoil leading edge in tenths of the chord, and the last two digits describing maximum thickness as percent of the chord. Thus, we change those parameters and find the best NACA airfoil based on maximum CL/CD.
 
+Prameters:
+------
+1. Freestream velocity: 20 m/s  (Based upon analysis of fixed wing UAV including Albatross, Slybird and others).
+2. Reynolds number: 1.4e6 (for AVL)
+3. Viscous mode: On (For AVL)
+4. Angle of attack (AoA): 0 degrees (for AVL)
+
+
+Steps:
+------
+1. MATLAB Scripts that calls AVL, generates the airfoil, run the analysis in 0 AoA and saves the airfoil and coeffiecnt of lieft and drag in the text file.
+2. MATLAB Script that looks into all saved text files and short out the airfoils with following properties:
+    1. Maximum coeffiecnt of lift.
+    2. Maximum coefficent of drag.
+    3. Maximum ratio of coffiecent of lift to drag.
+
+Results:
+------
+1. MATLAB Scripts that calls AVL, generates the airfoil, run the analysis in 0 AoA and saves the airfoil and coeffiecnt of lieft and drag in the text file.
+2. MATLAB Script that looks into all saved text files and short out the airfoils with following properties:
+    1. Maximum coeffiecnt of lift.
+    2. Maximum coefficent of drag.
+    3. Maximum ratio of coffiecent of lift to drag.
+
 <!-- Headings are cool
 ======
 
