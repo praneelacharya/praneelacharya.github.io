@@ -10,16 +10,16 @@ permalink: /posts/2022/05/Aerodynamics/
 
 In this project, we explore the different four-digit NACA airfoils. Four-digit NACA airfoil is described by three parameters: while first digit describes the maximum chamber as percentage of the chord, second digit describes of maximum camber the airfoil leading edge in tenths of the chord, and the last two digits describing maximum thickness as percent of the chord. Thus, we change those parameters and find the best NACA airfoil based on maximum CL/CD.
 
-Headings are cool
+<!-- Headings are cool
 ======
 
 You can have many headings
-======
+====== -->
 
 Introduction
 ------
-Lift and drag are defined by following equation.
-<!-- L=0.5ρV^2 SC_L -->
+Lift and drag are defined by following equation: <br/>
+L=0.5ρV^2 SC_L
 <!-- D=0.5ρV^2 SC_D -->
 L, D: Lift, Drag
 ρ : Freestream density
