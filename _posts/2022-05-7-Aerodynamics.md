@@ -1,6 +1,6 @@
 ---
 title: 'NACA 4 digit airfoil with maximum CL/CD'
-date: 2012-08-14
+# date: 2012-08-14
 permalink: /posts/2022/05/Aerodynamics/
 # tags:
 #   - cool posts
