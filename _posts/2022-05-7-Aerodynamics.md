@@ -33,7 +33,9 @@ Results:
 2. For zero angle of attack airfoil with a sphere-like shape yielded a maximum coefficient of drag (CD).
 
 ![MaxCL](../images/blog-Aerodynamics-maxCL.png "Title")
+Ha
 ![MaxCL](images/blog-Aerodynamics-maxCL.png "Title")
+Hu
 ![MaxCL](blog-Aerodynamics-maxCL.png "Title")
 
 <div class = "embed-responsive embed-responsive-16by9">
