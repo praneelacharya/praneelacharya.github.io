@@ -19,7 +19,7 @@ You can have many headings
 Introduction
 ------
 Lift and drag are defined by following equation: <br/>
-L=0.5ρV^2 SC_L
+$ L = 0.5 \rho V^2 S C_L $
 <!-- D=0.5ρV^2 SC_D -->
 L, D: Lift, Drag
 ρ : Freestream density
