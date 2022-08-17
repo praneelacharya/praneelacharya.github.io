@@ -28,11 +28,8 @@ Steps:
 
 Results:
 ------
-1. MATLAB Scripts that calls AVL, generates the airfoil, run the analysis in 0 AoA and saves the airfoil and coeffiecnt of lieft and drag in the text file.
-2. MATLAB Script that looks into all saved text files and short out the airfoils with following properties:
-    1. Maximum coeffiecnt of lift.
-    2. Maximum coefficent of drag.
-    3. Maximum ratio of coffiecent of lift to drag.
+1. For zero angle of attack airfoil with high camber were observed for maximum coefficent of lift (CL).
+2. For zero angle of attack airfoil with sphere like shape yielded maximum cofficent of drag (CD).
 
 
 <div class = "embed-responsive embed-responsive-16by9">
