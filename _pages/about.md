@@ -12,6 +12,10 @@ I am a Ph.D. candidate in the Department of Mechanical Engineering at [South Dak
 
 Over the years, I have had the opportunity to focus on different aspects of robotics: nonlinear controller design for multiagent systems, computer vision for robotic applications, deep learning, motion planning, and optimization. 
 
+<!-- [Name of Link]({% post_url 2010-07-21-name-of-post %}) -->
+
+[Name of Link]({% post_url /posts/2022/05/Aerodynamics/ %})
+
 Experience
 ======
 * Teaching: 
