@@ -32,13 +32,7 @@ Results:
 1. For zero angle of attack airfoil with high camber was observed for the maximum coefficient of lift (CL).
 2. For zero angle of attack airfoil with a sphere-like shape yielded a maximum coefficient of drag (CD).
 
-![MaxCL](../images/blog-Aerodynamics-maxCL.png)
-Ha
-![MaxCL](images/blog-Aerodynamics-maxCL.png)
-Hu
-![MaxCL](blog-Aerodynamics-maxCL.png)
-
-<br/><img src='/images/500x300.png'>
+<br/><img src='blog-Aerodynamics-maxCL.png'>
 
 <div class = "embed-responsive embed-responsive-16by9">
 

@@ -15,3 +15,7 @@ This adds or removes the pages in the navigation bar
 Pages are inside the folder _pages
 
 
+To add the image do the following: 
+![whatever](filename.png)
+
+
