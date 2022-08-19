@@ -27,7 +27,7 @@ Education
 Ph.D., Mechanical Engineering, South Dakota State University, Ongoing <br/>
 B.E., Aeronautical Engineering, Nanjing University of Aeronautics and Astronautics, China, 2017 <br/>
 
-For additional information checkout my publications and project page. Project section covers additional interesting topics that I have worked on. Main research work are in publication page. Any suggestion or feedback, feel free to contact me. 
+For additional information checkout my publications and project page. Project section covers additional interesting topics that I have worked on. Main research work are in publication page. Any suggestion or feedback, feel free to contact me. This site is still in progress so not all infromation is in place. 
 
 <!-- A data-driven personal website
 ======
