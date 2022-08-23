@@ -25,7 +25,7 @@ K.D. Nguyen, P. Acharya, T. Burgers, "Measurement of Droplet size and Velocities
 
 Journals
 ---
-1. [Accepted for publication in Computer and Electronics in Agriculture}, P.Acharya, T. Burgers, K.D. Nguyen, "AI-Enabled Droplet Detection and Tracking for Crop Spraying Systems", 2022.
+1. [Accepted for publication in Computer and Electronics in Agriculture], P.Acharya, T. Burgers, K.D. Nguyen, "AI-Enabled Droplet Detection and Tracking for Crop Spraying Systems", 2022.
 2. P. Acharya, K.D. Nguyen, H. La, D.K. Liu I.M. Chen, “Nonprehensile Manipulation: a Trajectory-Planning Perspective,”
 IEEE/ASME Transactions on Mechatronics, 26 (1), 527-538, 2021. doi: [10.1109/TMECH.2020.3038591.](https://ieeexplore.ieee.org/document/9262053) 
 3. E. Shata, K.D. Nguyen, P. Acharya, J. Doom, "A Series-Elastic Robot for Back-Pain Rehabilitation",

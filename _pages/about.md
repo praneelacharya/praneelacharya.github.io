@@ -14,14 +14,19 @@ Over the years my research focus has shifted from classical robotics: nonlinear 
 
 Having worked with existing deep learning models and proposed one myself, I truly believe the deep learning approach can have a meaningful impact on many fields. Yet, instead of relying only on deep learning as a solution to a given problem, there need to be redundant algorithms. After all trained model is only as good as it was trained on.
 
+<span style="color:blue">some *blue* text</span>.
+
 Experience
 ======
 * Teaching: 
     * ME 321 Fundamentals of Machine Design, South Dakota State University ( Fall 2022 )
     * ME 441/541 Robotic Systems Lab, South Dakota State University ( 2019 - 2022 )
-* Research assistant: South Dakota State University ( 2018 - 2022 )
+* Graduate assistant: South Dakota State University ( 2018 - 2022 )
 * Summer Internship: Collision avoidance using vison, Toro (CTRI division), MN ( 2022 )
-* Programming: MATLAB, Python, Pytorch, Keras
+Programming Language: Matlab, Python, C++
+Machine learning libraries: Pytorch, Tensorflow, OpenCV
+Research Tool: Convex optimization, ROS, Moveit
+Prototype tools: 3D printer, Arduino and Raspberry pi
 
 
 Education
