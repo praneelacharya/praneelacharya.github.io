@@ -16,7 +16,7 @@ Having worked with existing deep learning models and proposed one myself, I trul
 
 <!-- <span style="color:blue">some *blue* text</span>. -->
 
-<span style="color:blue"> Keywords: </span> Convex optimization, FMINCON, C++ realtime trajectory generator, underactuated system, feedback linearization controller, model free sliding mode controller, null space projection, object detection, segmentation, pytorch, least square ellipse fitting, kalman filter, collision avoidance, high performance computing.
+<span style="color:blue"> **Keywords:** </span> Convex optimization, FMINCON, C++ realtime trajectory generator, underactuated system, feedback linearization controller, model free sliding mode controller, null space projection, object detection, segmentation, pytorch, least square ellipse fitting, kalman filter, collision avoidance, high performance computing.
 
 <span style="color:blue"> **CliftonStrengths:** </span> Relator, Learner, Context, Harmony, Individualization
 
