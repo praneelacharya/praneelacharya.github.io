@@ -27,6 +27,11 @@ Experience
     * ME 441/541 Robotic Systems Lab, South Dakota State University ( 2019 - 2022 )
 * Graduate assistant: South Dakota State University ( 2018 - 2022 )
 * Summer Internship: Collision avoidance using vison, Toro (CTRI division), MN ( 2022 )
+    * Worked with ZED camera, Intel realsense camera, pytorch and opencv.
+    * Was responsible for developing multiple algorithms for the task.
+
+KEY SKILLS
+======
 Programming Language: Matlab, Python, C++
 Machine learning libraries: Pytorch, Tensorflow, OpenCV
 Research Tool: Convex optimization, ROS, Moveit
