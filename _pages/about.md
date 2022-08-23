@@ -14,7 +14,11 @@ Over the years my research focus has shifted from classical robotics: nonlinear 
 
 Having worked with existing deep learning models and proposed one myself, I truly believe the deep learning approach can have a meaningful impact on many fields. Yet, instead of relying only on deep learning as a solution to a given problem, there need to be redundant algorithms. After all trained model is only as good as it was trained on.
 
-<span style="color:blue">some *blue* text</span>.
+<!-- <span style="color:blue">some *blue* text</span>. -->
+
+<span style="color:blue"> ** Keywords: ** </span> Convex optimization, FMINCON, C++ realtime trajectory generator, underactuated system, feedback linearization controller, model free sliding mode controller, null space projection, object detection, segmentation, pytorch, least square ellipse fitting, kalman filter, collision avoidance, high performance computing.
+
+<span style="color:blue"> ** CliftonStrengths: ** </span> Relator, Learner, Context, Harmony, Individualization
 
 Experience
 ======
