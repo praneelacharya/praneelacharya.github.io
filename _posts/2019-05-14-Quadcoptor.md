@@ -23,3 +23,14 @@ Gain implemented in Parrot AR Drone.
 <br/><img src='/images/blog_images/Quad_result1.png'>
 <br/><img src='/images/blog_images/Quad_result2.png'>
 
+
+Screenshot of MATLAB/Simulink UAV model
+<br/><img src='/images/blog-Quad_matlab_model.png'>
+
+Tuned gain trajectory following
+<br/><img src='/images/blog-Quad_sim_results.png'>
+
+Gain implemented in Parrot AR Drone. 
+<br/><img src='/images/blog-Quad_result1.png'>
+<br/><img src='/images/blog-Quad_result2.png'>
+
