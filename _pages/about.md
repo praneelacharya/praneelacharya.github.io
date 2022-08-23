@@ -10,7 +10,9 @@ redirect_from:
 
 I am a Ph.D. candidate in the Department of Mechanical Engineering at [South Dakota State University](https://www.sdstate.edu) working under the supervision of [Dr. Kim-Doang Nguyen](https://www.sdstate.edu/directory/kim-doang-nguyen). I have worked as a research assistant and teaching assistant during my Ph.D. program. <br/>
 
-Over the years, I have had the opportunity to focus on different aspects of robotics: nonlinear controller design for multiagent systems, computer vision for robotic applications, deep learning, motion planning, and optimization. 
+Over the years my research focus has shifted from classical robotics: nonlinear controller design, optimization, and underactuated multi-agent motion synchronization toward classical computer vision and deep learning for the task of object detection and segmentation. In that regard, I have always been learning new things and enjoy the process of learning new things.
+
+Having worked with existing deep learning models and proposed one myself, I truly believe the deep learning approach can have a meaningful impact on many fields. Yet, instead of relying only on deep learning as a solution to a given problem, there need to be redundant algorithms. After all trained model is only as good as it was trained on.
 
 Experience
 ======
