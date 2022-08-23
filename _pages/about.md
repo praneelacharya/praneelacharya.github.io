@@ -32,10 +32,10 @@ Experience
 
 KEY SKILLS
 ======
-Programming Language: Matlab, Python, C++
-Machine learning libraries: Pytorch, Tensorflow, OpenCV
-Research Tool: Convex optimization, ROS, Moveit
-Prototype tools: 3D printer, Arduino and Raspberry pi
+Programming Language: Matlab, Python, C++ </br>
+Machine learning libraries: Pytorch, Tensorflow, OpenCV </br>
+Research Tool: Convex optimization, ROS, Moveit </br>
+Prototype tools: 3D printer, Arduino and Raspberry pi </br>
 
 
 Education
