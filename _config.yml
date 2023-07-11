@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Praneel Acharya"
   avatar           : "praneel.png"
-  bio              : "Ph.D. Candidate in Mechanical Engineering at South Dakota State University."
-  location         : "Brookings, SD"
+  bio              : ""
+  location         : ""
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=YNK7vr4AAAAJ&hl=en&oi=ao"
